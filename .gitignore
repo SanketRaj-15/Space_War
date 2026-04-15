@@ -1,0 +1,13 @@
+[Ll]ibrary/
+[Ll]ogs/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+
+*.csproj
+*.sln
+*.user
+*.pidb
+.DS_Store
+Thumbs.db
